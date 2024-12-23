@@ -1,2 +1,0 @@
-Fix code to read local lib flexible, no need to additionally export local pfam_scan lib.
-For personal use.
